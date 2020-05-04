@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\conno_000\\Desktop\\C#\\queen-attack\\QueenAttack.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\conno_000\\Desktop\\C#\\queen-attack\\QueenAttack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\conno_000\\Desktop\\C#\\queen-attack\\QueenAttack.csproj",
+        "projectName": "QueenAttack",
+        "projectPath": "c:\\Users\\conno_000\\Desktop\\C#\\queen-attack\\QueenAttack.csproj",
+        "packagesPath": "C:\\Users\\conno_000\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\conno_000\\Desktop\\C#\\queen-attack\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\conno_000\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

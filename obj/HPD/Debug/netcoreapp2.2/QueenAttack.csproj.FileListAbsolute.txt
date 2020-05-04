@@ -1,0 +1,11 @@
+c:\Users\conno_000\Desktop\C#\queen-attack\bin\HPD\Debug\netcoreapp2.2\QueenAttack.deps.json
+c:\Users\conno_000\Desktop\C#\queen-attack\bin\HPD\Debug\netcoreapp2.2\QueenAttack.runtimeconfig.json
+c:\Users\conno_000\Desktop\C#\queen-attack\bin\HPD\Debug\netcoreapp2.2\QueenAttack.runtimeconfig.dev.json
+c:\Users\conno_000\Desktop\C#\queen-attack\bin\HPD\Debug\netcoreapp2.2\QueenAttack.dll
+c:\Users\conno_000\Desktop\C#\queen-attack\bin\HPD\Debug\netcoreapp2.2\QueenAttack.pdb
+c:\Users\conno_000\Desktop\C#\queen-attack\obj\HPD\Debug\netcoreapp2.2\QueenAttack.csprojAssemblyReference.cache
+c:\Users\conno_000\Desktop\C#\queen-attack\obj\HPD\Debug\netcoreapp2.2\QueenAttack.csproj.CoreCompileInputs.cache
+c:\Users\conno_000\Desktop\C#\queen-attack\obj\HPD\Debug\netcoreapp2.2\QueenAttack.AssemblyInfoInputs.cache
+c:\Users\conno_000\Desktop\C#\queen-attack\obj\HPD\Debug\netcoreapp2.2\QueenAttack.AssemblyInfo.cs
+c:\Users\conno_000\Desktop\C#\queen-attack\obj\HPD\Debug\netcoreapp2.2\QueenAttack.dll
+c:\Users\conno_000\Desktop\C#\queen-attack\obj\HPD\Debug\netcoreapp2.2\QueenAttack.pdb
